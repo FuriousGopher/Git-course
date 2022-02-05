@@ -78,4 +78,4 @@ document.body.innerHTML = '<h1>hello from javaScript</h1>'
      console.log('Pers name ' + name +  'age' + age)
  }
 
- logInfoAbout( name: 'Ivan', year:1994)
+ logInfoAbout( name 'Ivan', year1994)
